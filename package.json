@@ -45,6 +45,6 @@
     "child_process"
   ],
   "dependencies": {
-    "unzip": "~0.1.9"
+    "unzip": "craigcomstocks/node-unzip-2#update-fstream"
   }
 }
